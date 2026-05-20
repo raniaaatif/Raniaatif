@@ -15,29 +15,22 @@
 
 ---
 
-##  Skills
+## Skills
 
-<p>
-  •css
-  •js
-  •bootstrap
-  •wordpress
-  •php
-</p> 
---- 
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- WordPress
+- PHP
 
-## 📊 GitHub Stats
+## Projects
 
-![Rania's GitHub stats](https://github-readme-stats.vercel.app/api?username=raniaatif&show_icons=true&theme=tokyonight)
+- [Shahrazn Website](https://raniaaatif.github.io/SHAHRZAN-Website/)
+- [Shein E-commerce Website](https://raniaaatif.github.io/ecommerce-wordpress-website/)
 
----
+## Connect with me
 
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raniaatif&layout=compact&theme=tokyonight) 
+- [LinkedIn](https://www.linkedin.com/in/rania-atif-4390b1318?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [Portfolio](https://raniaaatif.github.io/portfolio/)
 
----
-
-## 🌐 Connect with Me
-
--[ LinkedIn](https://www.linkedin.com/in/rania-atif-4390b1318?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
--[ Portfolio](https://raniaaatif.github.io/portfolio/)
