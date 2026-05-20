@@ -8,8 +8,6 @@
 
 ## 👩‍💻 About Me
 
-- BIS Student
-- Front-End Developer
 - Passionate about building responsive websites
 - Currently learning more about UI/UX
 
