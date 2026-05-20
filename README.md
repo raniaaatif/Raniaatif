@@ -24,5 +24,3 @@ Passionate about building responsive and user-friendly websites using HTML, CSS,
 
 - [LinkedIn](https://2-linkedin.com/in/rania-atif)
 - [Portfolio](https://raniaaatif.github.io/portfolio/)
-
-- 
